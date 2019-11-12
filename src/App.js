@@ -1,5 +1,4 @@
 const React = require('react');
-const logo = require('./logo.svg');
 // const BadgeIcon = require('@ml-demo/badgeicon');
 // const { Truck } = require('@ml-demo/common');
 require('./App.css');
